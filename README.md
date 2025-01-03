@@ -73,12 +73,16 @@ Logging: Automatically logs input text, predictions, and user IP addresses to th
 Configured IAM roles for secure S3 and RDS access.
 Security groups to control inbound traffic.
 
-📜 Project Structure
-.
+## 📜 Project Structure
+
 ├── README.md                 # Project overview and setup instructions
+
 ├── requirements.txt          # Python dependencies
+
 ├── app.py                    # Gradio application script
+
 ├── sentiment_analysis_1.csv  # Preprocessed dataset
+
 ├── model/                    # Directory for the fine-tuned model files
 
 
