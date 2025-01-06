@@ -16,7 +16,7 @@ LOCAL_MODEL_DIR = "Distilbert-base-uncased"  # Local directory to store download
 # RDS Configuration
 RDS_HOST = "database-1.cf2mqcmcq1zs.ap-south-1.rds.amazonaws.com"  # RDS endpoint
 RDS_USER = "admin"  # Database username
-RDS_PASSWORD = "omsakthi"  # Database password
+RDS_PASSWORD = "******"  # Database password
 RDS_DB = "userlogs"  # Database name
 
 # Function to download all files in a folder from S3
