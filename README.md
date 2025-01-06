@@ -143,3 +143,4 @@ torch
 transformers
 pymysql
 
+public url : https://49f93f694d0bcb5e2d.gradio.live 
