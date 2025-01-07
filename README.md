@@ -75,16 +75,21 @@ pymysql
 ### Run the application:
 
  python app.py
+<img width="1440" alt="Screenshot 2025-01-05 at 12 48 24 PM" src="https://github.com/user-attachments/assets/361b7fb2-7103-4f1c-97b8-e71679086976" />
 
 
 ### 4. Access the Web Application
  Use the generated public URL to access the application.
+ <img width="1440" alt="Screenshot 2025-01-05 at 12 50 34 PM" src="https://github.com/user-attachments/assets/c4c801c7-37c5-4dbb-8a17-9dc815cad0c0" />
+
 
 ## 🌟 Key Functionalities
 
  Prediction API: Enter text to receive sentiment predictions and probabilities.
 
  Logging: Automatically logs input text, predictions, and user IP addresses to the RDS database.
+ ![Uploading Screenshot 2025-01-05 at 12.49.05 PM.png…]()
+
 
 ## 🛡️ Security Measures
 
