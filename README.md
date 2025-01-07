@@ -89,7 +89,8 @@ pymysql
 
  Logging: Automatically logs input text, predictions, and user IP addresses to the RDS database.
  
- ![Uploading Screenshot 2025-01-05 at 12.49.05 PM.png…]()
+<img width="1440" alt="Screenshot 2025-01-05 at 12 49 05 PM" src="https://github.com/user-attachments/assets/1c38262f-c006-4aa6-9bd5-a83aa9e53d6e" />
+
 
 
 ## 🛡️ Security Measures
