@@ -88,6 +88,7 @@ pymysql
  Prediction API: Enter text to receive sentiment predictions and probabilities.
 
  Logging: Automatically logs input text, predictions, and user IP addresses to the RDS database.
+ 
  ![Uploading Screenshot 2025-01-05 at 12.49.05 PM.png…]()
 
 
