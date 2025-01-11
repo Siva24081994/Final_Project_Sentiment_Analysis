@@ -68,7 +68,7 @@ pymysql
 
 ### 3. Deploy the Application
 
- SSH into the EC2 instance.
+ SSH (secure shell) into the EC2 instance.
 
  Download the model and app.py from S3.
 
